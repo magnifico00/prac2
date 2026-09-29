@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\titov\\source\\repos\\prac2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{316DE236-99C2-F7FB-158E-84C0CB99F708}|\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.vcxproj|C:\\Users\\titov\\source\\repos\\prac2\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{316DE236-99C2-F7FB-158E-84C0CB99F708}|\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.vcxproj|solutionrelative:\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp",
+              "DocumentMoniker": "C:\\Users\\titov\\source\\repos\\prac2\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp",
+              "RelativeDocumentMoniker": "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp",
+              "ToolTip": "C:\\Users\\titov\\source\\repos\\prac2\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp*",
+              "RelativeToolTip": "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u043D\u044F\u0442\u0438\u0435 2.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-28T21:34:49.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

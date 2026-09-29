@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Практиче.316DE236\\x64\\Debug\\Переменные.obj",
+            "outputs": [
+                "Практиче.316DE236\\x64\\Debug\\Переменные.cpp.obj.dt.module.json",
+                "Практиче.316DE236\\x64\\Debug\\Переменные.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
