@@ -33,7 +33,7 @@ public:
 
         double area = PI * radius * radius;
 
-        // Округляем до двух знаков после запятой
+        // Округляем до двух знаков после запято
         double result = round(area * 100.0) / 100.0;
 
         cout << "Площадь круга: " << result << endl;
