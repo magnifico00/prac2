@@ -142,7 +142,7 @@ int main()
 
 
     // Подзадача 1.2
-    // Создаём три переменные типа double
+    // Создаём три переменные типа doub
 
     double first;
     double second;
